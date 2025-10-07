@@ -46,3 +46,4 @@ Each model is evaluated using:
 - Matplotlib
 - TensorFlow / Keras (optional)
 
+Note: You can download the dataset from the kaggle link: https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset 
